@@ -282,21 +282,32 @@ La forma de consumo de dicha info será en Looker, un poderoso pero intuitivo si
       <strong>Giada de Carlo</strong><br>(Data Analyst)
     </td>
   </tr>
+</tr>
   <tr>
     <td style="border-right: 1px solid #ccc; border-left: 1px solid #ccc; border-top: none; padding: 10px;">
-      <img src="img/Integrantes/Tomas_Fernandez_Token.png" alt="Tomas Fernandez" width="100" height="100">
+      <a href="https://github.com/TFTomasFernandez" target="_blank">
+        <img src="img/Integrantes/Tomas_Fernandez_Token.png" alt="Tomas Fernandez" width="100" height="100">
+      </a>
     </td>
     <td style="border-right: 1px solid #ccc; border-top: none; padding: 10px;">
-      <img src="img/Integrantes/Nahuel_Salamone_Token.png" alt="Nahuel Salamone" width="100" height="100">
+      <a href="https://github.com/SalamoneNahuel" target="_blank">
+        <img src="img/Integrantes/Nahuel_Salamone_Token.png" alt="Nahuel Salamone" width="100" height="100">
+      </a>
     </td>
     <td style="border-right: 1px solid #ccc; border-top: none; padding: 10px;">
-      <img src="img/Integrantes/Martin_Ferrari_Token.png" alt="Martin Ferrari" width="100" height="100">
+      <a href="https://github.com/MartinFerrari5" target="_blank">
+        <img src="img/Integrantes/Martin_Ferrari_Token.png" alt="Martin Ferrari" width="100" height="100">
+      </a>
     </td>
     <td style="border-right: 1px solid #ccc; border-top: none; padding: 10px;">
-      <img src="img/Integrantes/Pablo_Chamena_Token.png" alt="Pablo Chamena" width="100" height="100">
+      <a href="https://github.com/Pableren" target="_blank">
+        <img src="img/Integrantes/Pablo_Chamena_Token.png" alt="Pablo Chamena" width="100" height="100">
+      </a>
     </td>
     <td style="border-top: none; border-right: 1px solid #ccc; padding: 10px;">
-      <img src="img/Integrantes/Giada_de_Carlo_Token.png" alt="Giada de Carlo" width="100" height="100">
+      <a href="https://github.com/JGiadaDC" target="_blank">
+        <img src="img/Integrantes/Giada_de_Carlo_Token.png" alt="Giada de Carlo" width="100" height="100">
+      </a>
     </td>
   </tr>
 </table>
